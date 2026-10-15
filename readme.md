@@ -27,7 +27,7 @@
 # Installation (porting)
 - Download the mod in the [releases](https://github.com/0x-60/rwyMod/releases/tag/release2) section.
 - Unpack your game files with [Nenkai's GTToolsSharp.](https://github.com/Nenkai/GTToolsSharp)
-- Drag and drop the modded ".rwy" files into "/crs/"
+- Drag and drop the modded `".rwy"` files into `"/crs/"`
 - Repack your game files using the same program.
 - Open Cheat Engine, click Edit > Extra Custom Types > Check All Big Endian Types.
 - Once in-game, load into a course and do a new scan for a 2-byte big endian set to 0.
